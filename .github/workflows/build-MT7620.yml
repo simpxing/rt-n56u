@@ -1,4 +1,4 @@
-name: Build MT7620
+name: Build newifi Y1
 
 on: 
   release:
