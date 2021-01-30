@@ -1,4 +1,4 @@
-name: Build newifi Y1
+name: Build newifi Y1 
 
 on: 
   release:
