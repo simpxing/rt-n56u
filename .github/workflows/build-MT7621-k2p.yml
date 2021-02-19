@@ -1,4 +1,4 @@
-name: Build MT7621-1
+name: Build MT7621-1 
 
 on: 
   release:
